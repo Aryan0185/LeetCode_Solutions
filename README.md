@@ -15,4 +15,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
