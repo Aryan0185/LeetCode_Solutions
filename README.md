@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -53,5 +54,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
