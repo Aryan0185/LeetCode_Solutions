@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [3024-type-of-triangle](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3024-type-of-triangle](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [3024-type-of-triangle](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
