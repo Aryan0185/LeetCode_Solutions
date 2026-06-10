@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [3024-type-of-triangle](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -98,4 +99,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
