@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0704-binary-search) |
