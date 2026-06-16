@@ -1,6 +1,6 @@
 class Solution {
 public:
-     int splitpage(vector<int>& nums,int pages){
+     int countsplit(vector<int>& nums,int pages){
         int student=1;
         long long pagestudent=0;
         for(int i=0;i<nums.size();i++){
@@ -19,7 +19,7 @@ public:
       int high=accumulate(nums.begin(),nums.end(),0);  
       while(low<=high){
         int mid=low+(high-low)/2;
-        int split=splitpage(nums,mid);
+        int split=countsplit(nums,mid);
         if(split>k)low=mid+1;
         else high=mid-1;
       }
