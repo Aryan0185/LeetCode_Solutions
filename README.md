@@ -149,4 +149,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
