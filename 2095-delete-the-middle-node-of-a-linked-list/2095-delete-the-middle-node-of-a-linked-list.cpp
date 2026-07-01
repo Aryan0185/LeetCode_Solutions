@@ -17,13 +17,13 @@ public:
             head->next=nullptr;
             return head;
         }
-        ListNode* slow=head,*fast=head->next->next;
+        ListNode* slow=head,*fast=head,*prev=nullptr;
         while(fast!=nullptr && fast->next!=nullptr){
-            fast=fast->next->next;
+            prev=slow;
             slow=slow->next;
+            fast=fast->next->next;
         }
-        ListNode* deletenode=slow->next;
-        slow->next=slow->next->next;
-        delete deletenode;
+         prev->next=slow->next;
+        delete slow;
   return head;  }
 };
