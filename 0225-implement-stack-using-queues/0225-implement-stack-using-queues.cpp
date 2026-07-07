@@ -1,28 +1,31 @@
 class MyStack {
-    int arr[1000]; 
-    int topindex=-1;
+    queue<int>q;
 public:
     MyStack() {
-      int index=-1;
+        
     }
     
     void push(int x) {
-       topindex++;
-       arr[topindex]=x; 
+        q.push(x);
+        int n=q.size();
+        for(int i=0;i<n-1;i++){
+            q.push(q.front());
+            q.pop();
+        }
     }
     
     int pop() {
-        int val=arr[topindex];
-        topindex--;
+        int val=q.front();
+        q.pop();
         return val;
     }
     
     int top() {
-        return arr[topindex];
+       return q.front(); 
     }
     
     bool empty() {
-        return topindex==-1;
+        return q.empty();
     }
 };
 
