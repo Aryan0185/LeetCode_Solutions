@@ -1,44 +1,38 @@
 class MyQueue {
-    int arr[1000];
-    int start,end,currentsize,capacity;
+    stack<int> s1,s2;
 public:
     MyQueue() {
-        start=-1;
-        end=-1;
-        currentsize=0;
-        capacity=1000;
+        
     }
     
     void push(int x) {
-        if(currentsize==capacity)return ;
-        if(currentsize==0){
-            start=0;
-            end=0;
-        }else{
-            end=(end+1)%capacity;
-        }
-        arr[end]=x;
-        currentsize++;
+        s1.push(x);
     }
     
     int pop() {
-        int val=arr[start];
-        if(currentsize==1){
-            start=-1;
-            end=-1;
-        }else{
-            start=(start+1)%capacity;
+        if(s2.empty()){
+            while(!s1.empty()){
+                s2.push(s1.top());
+                s1.pop();
+            }
         }
-        currentsize--;
+        int val=s2.top();
+        s2.pop();
         return val;
     }
     
     int peek() {
-        return arr[start];
+        if(s2.empty()){
+            while(!s1.empty()){
+                s2.push(s1.top());
+                s1.pop();
+            }
+        }
+        return s2.top();
     }
     
     bool empty() {
-        return currentsize==0;
+        return s1.empty() && s2.empty();
     }
 };
 
