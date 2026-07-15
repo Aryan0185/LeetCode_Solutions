@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3024-type-of-triangle](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -319,4 +320,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
