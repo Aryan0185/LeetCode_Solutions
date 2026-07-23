@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1922-count-good-numbers) |
 | [3024-type-of-triangle](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
