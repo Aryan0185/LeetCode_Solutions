@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
@@ -342,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 ## Design
@@ -394,4 +398,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0460-lfu-cache) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
