@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0282-expression-add-operators) |
+| [0326-power-of-three](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1922-count-good-numbers) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1922-count-good-numbers) |
 ## Array
