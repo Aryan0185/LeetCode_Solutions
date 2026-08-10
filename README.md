@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0342-power-of-four) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
 | ------- |
