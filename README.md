@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0204-count-primes) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0136-single-number) |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 ## Prefix Sum
 |  |
@@ -271,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
