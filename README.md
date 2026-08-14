@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1922-count-good-numbers) |
 | [3024-type-of-triangle](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
