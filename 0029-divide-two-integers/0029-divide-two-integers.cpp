@@ -19,10 +19,6 @@ public:
             ans += 1LL << count;
         }
         if (sign == -1) ans = -ans; 
-        
-        
-       // if (ans > INT_MAX) return INT_MAX;
-        //if (ans < INT_MIN) return INT_MIN;
         return (int)ans;
     }
 };
