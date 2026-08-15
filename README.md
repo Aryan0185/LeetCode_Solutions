@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0231-power-of-two) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0231-power-of-two) |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0282-expression-add-operators) |
