@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
