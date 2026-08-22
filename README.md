@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0454-4sum-ii) |
+| [0455-assign-cookies](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [3024-type-of-triangle](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
@@ -273,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -464,4 +468,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0204-count-primes) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
