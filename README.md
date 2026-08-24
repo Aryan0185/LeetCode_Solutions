@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
