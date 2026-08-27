@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0704-binary-search) |
@@ -480,4 +481,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0455-assign-cookies) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
