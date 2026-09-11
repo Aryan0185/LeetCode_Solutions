@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0460-lfu-cache) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0282-expression-add-operators](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -443,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Queue
