@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0075-sort-colors) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Aryan0185/LeetCode_Solutions/tree/master/0455-assign-cookies) |
