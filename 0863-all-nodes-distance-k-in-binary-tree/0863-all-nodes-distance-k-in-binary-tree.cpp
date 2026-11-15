@@ -1,0 +1,52 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+class Solution {
+public: 
+    void find(TreeNode* root,int k, vector<int>& ans){
+        if(root==nullptr || k<0)return;
+        if(k==0){
+        ans.push_back(root->val);
+        return;
+    }
+        find(root->left,k-1,ans);
+        find(root->right,k-1,ans);
+    }
+    void dfs(TreeNode* root,TreeNode* target,int k,int & distance,vector<int>& ans,bool & found){
+        if(!root) return;
+        if(root==target){
+            found=true;
+            distance=0;
+            find(root,k,ans);
+            return;
+        }
+        dfs(root->left,target,k,distance,ans,found);
+        if(found){
+            distance++;
+            if(distance==k) ans.push_back(root->val);
+            find(root->right,k-distance-1,ans);
+            return;
+        }
+        dfs(root->right,target,k,distance,ans,found);
+        if(found){
+            distance++;
+            if(distance==k)ans.push_back(root->val);
+            find(root->left,k-distance-1,ans);
+            return;
+        }
+    }
+    vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
+        vector<int>ans;
+        bool found=false;
+        int distance=0;
+        dfs(root,target,k,distance,ans,found);
+        return ans;
+    }
+};
+   
