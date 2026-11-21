@@ -16,18 +16,18 @@ public:
         if(!root) return ans;
 
         map<int, map<int, multiset<int>>> nodes;   // x -> y -> values
-        queue<pair<TreeNode*, pair<int,int>>> todo;
-        todo.push({root, {0, 0}});
+        queue<pair<TreeNode*, pair<int,int>>> qoto;
+        qoto.push({root, {0, 0}});
 
-        while(!todo.empty()){
-            auto p = todo.front();
-            todo.pop();
+        while(!qoto.empty()){
+            auto p = qoto.front();
+            qoto.pop();
             TreeNode* node = p.first;
             int x = p.second.first, y = p.second.second;
             nodes[x][y].insert(node->val);
 
-            if(node->left)  todo.push({node->left,  {x-1, y+1}});
-            if(node->right) todo.push({node->right, {x+1, y+1}});
+            if(node->left)  qoto.push({node->left,  {x-1, y+1}});
+            if(node->right) qoto.push({node->right, {x+1, y+1}});
         }
 
         for(auto p : nodes){
